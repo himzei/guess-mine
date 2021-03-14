@@ -9,6 +9,8 @@ const events = {
   strokePath: "strokePath",
   beganPath: "beganPath",
   strokedPath: "strokedPath",
+  fill: "fill",
+  filled: "filled",
 };
 
 export default events;
